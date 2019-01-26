@@ -1,0 +1,74 @@
+---
+title: "Genesis Study:  Session 1"
+author: "Genesis 1:1-2"
+output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: pdflatex
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+\vspace{0.2 in}
+
+\newcommand{\vn}[1]{\textit{\textbf{#1}}}
+\begin{spacing}{1.6}
+
+\texttt{\vn{1} In the beginning, God created the heavens and the earth. 
+\vn{2} The earth was without form and void, and darkness was over the face 
+of the deep. And the Spirit of God was hovering over the face of the 
+waters. (ESV)}
+
+\end{spacing}
+
+\vspace{0.5 in}
+
+# Suggestions for Exploration
+
+1. What observations can you make about Creation as it stands in this 
+passage? What three attributes are used to describe it?^[If you want, use a 
+concordance or the Blue Letter Bible website to gain a fuller understanding 
+of the original words.] 
+
+\vspace{2 in}
+
+2. It would not be too far off the mark to summarize Creation at this point 
+as a "wilderness". What other points in the storyline of the Bible does 
+the idea of wilderness bring to mind?
+
+\vspace{2 in}
+
+3. How does the mission of Jesus fit together with the Biblical theme of 
+wilderness? How is the theme of wilderness reflected in your own experience? 
+Where is the Bible storyline going? Where is your own story going?
+
+\vspace{2 in}
+
+4. Compare Gen 1:1,2 and John 1:1-5. Is God's ability to create the universe 
+from nothing the same creative power that He uses to create in us a new 
+heart? Do you have an example from your life of seeing new godly traits 
+that were not there before you met Christ, or even a recent experience?
+
+\vspace{2 in}
+
+5. Are you aware of any verses early in Genesis that you struggle with? 
+List some if you're able.
+
+\vspace{2 in}
+
+6. Can you take a few moments to ponder that might be the cause or the 
+rationale of your doubts?
+
+\vspace{3 in}
+
+7. Why is it that we don't always fully believe? Can you dissect the 
+mechanics of the unbelief in your mind?
+
+
+
