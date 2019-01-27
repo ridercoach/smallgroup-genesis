@@ -1,6 +1,6 @@
 ---
 title: "Genesis Study:  Session 2"
-author: "Genesis 1:3-23"
+author: "Genesis 1:3-19"
 output:
   tufte::tufte_handout:
     citation_package: natbib
@@ -61,34 +61,40 @@ separate the light from the darkness. And God saw that it was good.
 
 # Suggestions for Exploration
 
-1. What observations do you think you might be able to make if it was 
-a good day and not just an average day?  I mean, a \emph{really} good 
-day, like the best day you ever could dream of having?^[The hyperbole 
-here is truly justified, trust me.]
+1. As we did last time, please refer to John 1:1-5 as you consider 
+this passage, particularly in regard to what John says about "light". 
+Do you think John is purposely alluding to the beginning of Genesis? 
+If so, why do you think he is doing this?
 
-\vspace{1 in}
+\vspace{0.5 in}
 
-2. It would 
+2. Summarize the storyline of the Bible in one sentence. (Does it change your
+answer at all if you take the scope of the story to be eternity rather than
+Genesis to Revelation?)
 
-\vspace{1 in}
+\vspace{0.5 in}
 
-3. How does 
+3. As God moves history forward from the formless emptiness of Gen 1:1-2, 
+the first thing He creates is "light".  And yet, what \emph{we} think of 
+as light is not created until the fourth day.  What do you make of this? 
+What other comparisons can you make between verses 3-5 and verses 14-19?
 
-\vspace{1 in}
+\vspace{0.5 in}
 
-4. Compare 
+4. A significant theme throughout the Bible is the conflict between the 
+seed of the woman and the seed of the serpent. We haven't gotten to that 
+in Genesis yet, but the same Hebrew word for "seed" is used four times 
+in verses 9-13.^[Very generally, in the Bible, when a word is repeated 
+more than seems necessary, it is \emph{possible} the author is trying to 
+get our attention.] What ideas do you have about why God might be making 
+such a big deal about \emph{seed}?
 
-\vspace{1 in}
+\vspace{0.5 in}
 
-5. Are you 
+5. What other observations or thoughts do you have about this passage?
 
-\vspace{1 in}
 
-6. Can you 
 
-\vspace{1 in}
-
-7. Why is it 
 
 
 
