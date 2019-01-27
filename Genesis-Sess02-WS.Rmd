@@ -1,0 +1,94 @@
+---
+title: "Genesis Study:  Session 2"
+author: "Genesis 1:3-23"
+output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: pdflatex
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+\vspace{0.2 in}
+
+\newcommand{\vn}[1]{\textit{\textbf{#1}}}
+
+\begin{adjustwidth}{}{-2 in}
+
+\begin{spacing}{1.6}
+
+\texttt{\vn{3} And God said, "Let there be light," and there was light. 
+\vn{4} And God saw that the light was good. And God separated the light 
+from the darkness. \vn{5} God called the light Day, and the darkness He 
+called Night. And there was evening and there was morning, the first 
+day. \vn{6} And God said, "Let there be an expanse in the midst of the 
+waters, and let it separate the waters from the waters." \vn{7} And 
+God made the expanse and separated the waters that were under the expanse 
+from the waters that were over the expanse. And it was so. \vn{8} And 
+God called the expanse Heaven. And there was evening and there was morning, 
+the second day. \vn{9} And God said, "Let the waters under the heavens 
+be gathered together into one place, and let the dry land appear." And 
+it was so. \vn{10} God called the dry land Earth, and the waters that 
+were gathered together he called Seas. And God saw that it was good. 
+\vn{11} And God said, "Let the earth sprout vegetation, plants yielding 
+seed, and fruit trees bearing fruit in which is their seed, each according 
+to its kind, on the earth." And it was so. \vn{12} The earth brought forth 
+vegetation, plants yielding seed according to their own kinds, and trees 
+bearing fruit in which is their seed, each according to its kind. And 
+God saw that it was good. \vn{13} And there was evening and there was 
+morning, the third day. \vn{14} And God said, "Let there be lights in the 
+expanse of the heavens to separate the day from the night. And let them 
+be for signs and for seasons, and for days and years, \vn{15} and let them 
+be lights in the expanse of the heavens to give light upon the earth." And 
+it was so. \vn{16} And God made the two great lights -- the greater light 
+to rule the day and the lesser light to rule the night -- and the stars. 
+\vn{17} And God set them in the expanse of the heavens to give light on 
+the earth, \vn{18} to rule over the day and over the night, and to 
+separate the light from the darkness. And God saw that it was good. 
+\vn{19} And there was evening and there was morning, the fourth day.  (ESV)}
+
+\end{spacing}
+
+\end{adjustwidth}
+
+\vspace{0.5 in}
+
+# Suggestions for Exploration
+
+1. What observations do you think you might be able to make if it was 
+a good day and not just an average day?  I mean, a \emph{really} good 
+day, like the best day you ever could dream of having?^[The hyperbole 
+here is truly justified, trust me.]
+
+\vspace{1 in}
+
+2. It would 
+
+\vspace{1 in}
+
+3. How does 
+
+\vspace{1 in}
+
+4. Compare 
+
+\vspace{1 in}
+
+5. Are you 
+
+\vspace{1 in}
+
+6. Can you 
+
+\vspace{1 in}
+
+7. Why is it 
+
+
+
