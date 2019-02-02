@@ -21,7 +21,9 @@ options(htmltools.dir.version = FALSE)
 
 \begin{adjustwidth}{}{-2 in}
 
-\begin{spacing}{1.6}
+\large{}
+
+\begin{spacing}{1.7}
 
 \texttt{\vn{3} And God said, "Let there be light," and there was light. 
 \vn{4} And God saw that the light was good. And God separated the light 
@@ -61,6 +63,8 @@ separate the light from the darkness. And God saw that it was good.
 
 # Suggestions for Exploration
 
+\large{}
+
 1. As we did last time, please refer to John 1:1-5 as you consider 
 this passage, particularly in regard to what John says about "light". 
 Do you think John is purposely alluding to the beginning of Genesis? 
@@ -93,8 +97,6 @@ such a big deal about \emph{seed}?
 
 5. What other observations or thoughts do you have about this passage?
 
+\vspace{0.5 in}
 
-
-
-
-
+6. Compare Genesis 1:4 to Isaiah 9:2, looking at the word “darkness”, which is the same Hebrew word (\emph{choshek}.) Who are the people who walk in darkness that see a great light? Also see Matthew 4:16. Does knowing this change the way you see the darkness in your own life?
