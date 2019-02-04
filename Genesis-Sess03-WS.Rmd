@@ -26,14 +26,14 @@ options(htmltools.dir.version = FALSE)
 \begin{spacing}{1.7}
 
 \texttt{\vn{20} And God said, "Let the waters swarm with swarms of living 
-creatures, and let birds fly above the earth across the expaanse of the 
+creatures, and let birds fly above the earth across the expanse of the 
 heavens." \vn{21} So God created the great sea creatures and every living 
 creature that moves, with which the waters swarm, according to their kinds, 
-and every winged bird according to its kind. And God saw that it was good. 
-\vn{22} And God blessed them, saying, "Be fruitful and multiply and fill the 
+and every winged bird according to its kind. And God saw that it was 
+good. \vn{22} And God blessed them, saying, "Be fruitful and multiply and fill the 
 waters in the seas, and let birds multiply on the earth." \vn{23} And there 
 was evening and there was morning, the fifth day. \vn{24} And God said, 
-"Let the earth bring forth living creatures according to their kinds -- 
+"Let the earth bring forth living creatures according to their kinds --- 
 livestock and creeping things and beasts of the earth according to their 
 kinds." And it was so. \vn{25} And God made the beasts of the earth according 
 to their kinds and the livestock according to their kinds, and everything 
@@ -42,18 +42,18 @@ good. \vn{26} Then God said, "Let us make man in our image, after our
 likeness. And let them have dominion over the fish of the sea and over 
 the birds of the heavens and over the livestock and over all the earth and 
 over every creeping thing that creeps on the earth." \vn{27} So God created 
-man in his own image, in the image of God he created him, male and female 
+man in his own image, in the image of God he created him; male and female 
 he created them. \vn{28} And God blessed them. And God said to them, "Be 
 fruitful and multiply and fill the earth and subdue it and have dominion 
 over the fish of the sea and over the birds of the heavens and over every 
 living thing that moves on the earth." \vn{29} And God said, "Behold, I 
 have given you every plant yielding seed that is on the face of all the 
-earth, and every tree with seed in its fruit. You shall have them for food. 
-\vn{30} And to every beast of the earth and to every bird of the heavens 
+earth, and every tree with seed in its fruit. You shall have them for 
+food. \vn{30} And to every beast of the earth and to every bird of the heavens 
 and to everything that creeps on the earth, everything that has the breath 
 of life, I have given every green plant for food." And it was so. \vn{31} And 
 God saw everything that he had made, and behold, it was very good. And there 
-was evening and there as morning, the sixth day.   (ESV)}
+was evening and there was morning, the sixth day.   (ESV)}
 
 \end{spacing}
 
@@ -65,24 +65,29 @@ was evening and there as morning, the sixth day.   (ESV)}
 
 \large{}
 
-1. As ?
+1. What are some passages elsewhere in the Bible that explain some of the 
+implications of humans being made in God's image.  Summarize in your own 
+words what it means to be made in God's image. (Or, if that is too daunting, 
+just explain what you think is the \emph{most important} aspect of this, 
+and why.)
 
 \vspace{0.5 in}
 
-2. Summarize 
+2. How do men and women \emph{together} reflect God's image?
 
 \vspace{0.5 in}
 
-3. As God moves ?
+3. How would you describe the role God gives humans in this passage? What 
+specific things does He tell them to do? How do these things fit into "The 
+Big Story"?
 
 \vspace{0.5 in}
 
-4. A significant .^[Very ] 
+4. How does the role God gave Adam relate to Jesus being "the second Adam"?
 
 \vspace{0.5 in}
 
-5. What other ?
+5. According to this passage, what does it mean to be human? In what sense 
+is the Bible the story of humanity?^[If you think this question is somehow 
+wrongheaded, please fix the question and \emph{then} answer it.]
 
-\vspace{0.5 in}
-
-6. Compare ?
