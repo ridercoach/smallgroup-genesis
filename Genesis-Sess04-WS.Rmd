@@ -1,0 +1,75 @@
+---
+title: "Genesis Study:  Session 4"
+author: "Genesis 2:1-3"
+output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: pdflatex
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+\vspace{0.2 in}
+
+\newcommand{\vn}[1]{\textit{\textbf{#1}}}
+
+\begin{adjustwidth}{}{-2 in}
+
+\large{}
+
+\begin{spacing}{1.7}
+
+\texttt{\vn{1} Thus the heavens and the earth were finished, and all 
+the host of them. \vn{2} And on the seventh day God finished his work 
+that he had done, and he rested on the seventh day from all his work 
+that he had done. \vn{3} So God blessed the seventh day and made it 
+holy, because on it God rested from all his work that he had done in 
+creation.   (ESV)}
+
+\end{spacing}
+
+\end{adjustwidth}
+
+\vspace{0.3 in}
+
+# Suggestions for Exploration
+
+\large{}
+
+1. There is plenty to ponder concerning how this passage relates to 
+"the Sabbath".  \emph{However,} before letting yourself go there, try to 
+examine this passage apart from all that, and just make as many 
+objective observations as you can.  What do you see?
+
+\vspace{0.5 in}
+
+2. What does it mean that God "rested"?
+
+\vspace{0.5 in}
+
+3. Can you find a passage in the Bible that links the Jewish concept of 
+the Sabbath to the seventh day of Creation?  How would you explain this 
+link in your own words?
+
+\vspace{0.5 in}
+
+4. According to 
+
+\vspace{0.5 in}
+
+5. According to 
+
+\vspace{0.5 in}
+
+6. According to 
+
+\vspace{0.5 in}
+
+7. According to 
+
