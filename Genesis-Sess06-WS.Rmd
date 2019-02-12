@@ -1,0 +1,80 @@
+---
+title: "Genesis Study:  Session 6"
+author: "Genesis 2:18-25"
+output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: pdflatex
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+\vspace{0.2 in}
+
+\newcommand{\vn}[1]{\textit{\textbf{#1}}}
+
+\begin{adjustwidth}{}{-2 in}
+
+\large{}
+
+\begin{spacing}{1.7}
+
+\texttt{\vn{18} Then the LORD God said, "It is not good that the man 
+should be alone; I will make a helper fit for him." \vn{19} So out of 
+the ground the LORD God formed every beast of the field and every bird 
+of the heavens and brought them to the man to see what he would call them. 
+And whatever the man called every living creature, that was its name. \vn{20} 
+The man gave names to all livestock and to the birds of the heavens and to 
+every east of the field.  But for Adam there was not found a helper fit 
+for him. \vn{21} So the LORD God caused a deep sleep to fall upon the man, 
+and while he slept took one of his ribs and closed up its place with flesh. 
+\vn{22} And the rib that the LORD God had taken from the man he made into 
+a woman and brought her to the man. \vn{23} Then the man said, "This at 
+last is bone of my bones and flesh of my flesh; she shall be called Woman, 
+because she was taken out of Man." \vn{24} Therefore a man shall leave his 
+father and his mother and hold fast to his wife, and they shall become one 
+flesh. \vn{25} And the man and his wife were both naked and were not 
+ashamed.   (ESV)}
+
+\end{spacing}
+
+\end{adjustwidth}
+
+\vspace{0.3 in}
+
+# Suggestions for Exploration
+
+\large{}
+
+1. There ?
+
+\vspace{0.5 in}
+
+2. It  resting?
+
+\vspace{0.5 in}
+
+3. It  resting?
+
+\vspace{0.5 in}
+
+4. It  resting?
+
+\vspace{0.5 in}
+
+5. It  resting?
+
+\vspace{0.5 in}
+
+6. It  resting?
+
+\vspace{0.5 in}
+
+7. It  resting?
+

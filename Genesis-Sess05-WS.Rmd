@@ -1,0 +1,89 @@
+---
+title: "Genesis Study:  Session 5"
+author: "Genesis 2:4-17"
+output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: pdflatex
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+\vspace{0.2 in}
+
+\newcommand{\vn}[1]{\textit{\textbf{#1}}}
+
+\begin{adjustwidth}{}{-2 in}
+
+\large{}
+
+\begin{spacing}{1.7}
+
+\texttt{\vn{4} These are the generations of the heavens and the earth 
+when they were created, in the day that the LORD God made the earth and 
+the heavens. \vn{5} When no bush of the field was yet in the land and no 
+small plant of the field had yet spring up --- for the LORD God had not 
+caused it to rain on the land, and there was no man to work the ground, 
+\vn{6} and a mist was going up from the land and was watering the whole 
+face of the ground --- \vn{7} then the LORD God formed the man of dust 
+from the ground and breathed into his nostrils the breath of life, and 
+the man became a living creature. \vn{8} And the LORD God planted a garden 
+in Eden, in the east, and there he put the man whom he had formed. \vn{9} 
+And out of the ground the LORD God made to spring up every tree that is 
+pleasant to the sight and good for food.  The tree of life was in the 
+midst of the garden, and the tree of the knowledge of good and evil. \vn{10} 
+A river flowed out of Eden to water the garden, and there it divided and 
+became four rivers. \vn{11} The name of the first is the Pishon.  It is the 
+one that flowed around the whole land of Havilah, where there is gold. 
+\vn{12} And the gold of that land is good; bdellium and onyx stone are 
+there. \vn{13} The name of the second river is the Gihon.  It is the one 
+that flowed around the whole land of Cush. \vn{14} And the name of the 
+third river is the Tigris, which flows east of Assyria.  And the fourth 
+river is the Euphrates. \vn{15} The LORD God took the man and put him in 
+the garden of Eden to work it and keep it. \vn{16} And the LORD God commanded 
+the man, saying, "You may surely eat of every tree of the garden, \vn{17} but 
+of the tree of the knowledge of good and evil you shall not eat, for in the 
+day that you eat of it you shall surely die."   (ESV)}
+
+\end{spacing}
+
+\end{adjustwidth}
+
+\vspace{0.3 in}
+
+# Suggestions for Exploration
+
+\large{}
+
+1. There ?
+
+\vspace{0.5 in}
+
+2. It  resting?
+
+\vspace{0.5 in}
+
+3. It  resting?
+
+\vspace{0.5 in}
+
+4. It  resting?
+
+\vspace{0.5 in}
+
+5. It  resting?
+
+\vspace{0.5 in}
+
+6. It  resting?
+
+\vspace{0.5 in}
+
+7. It  resting?
+
