@@ -15,8 +15,6 @@ knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
-\vspace{0.2 in}
-
 \newcommand{\vn}[1]{\textit{\textbf{#1}}}
 
 \begin{adjustwidth}{}{-2 in}
@@ -28,7 +26,7 @@ options(htmltools.dir.version = FALSE)
 \texttt{\vn{4} These are the generations of the heavens and the earth 
 when they were created, in the day that the LORD God made the earth and 
 the heavens. \vn{5} When no bush of the field was yet in the land and no 
-small plant of the field had yet spring up --- for the LORD God had not 
+small plant of the field had yet sprung up --- for the LORD God had not 
 caused it to rain on the land, and there was no man to work the ground, 
 \vn{6} and a mist was going up from the land and was watering the whole 
 face of the ground --- \vn{7} then the LORD God formed the man of dust 
@@ -49,7 +47,7 @@ river is the Euphrates. \vn{15} The LORD God took the man and put him in
 the garden of Eden to work it and keep it. \vn{16} And the LORD God commanded 
 the man, saying, "You may surely eat of every tree of the garden, \vn{17} but 
 of the tree of the knowledge of good and evil you shall not eat, for in the 
-day that you eat of it you shall surely die."   (ESV)}
+day that you eat of it you shall surely die."    (ESV)}
 
 \end{spacing}
 
@@ -61,29 +59,27 @@ day that you eat of it you shall surely die."   (ESV)}
 
 \large{}
 
-1. There ?
+1. What parts of chapter 1 does this passage seem to be a repetition of? Why, do 
+you think, is God going over this material again? What are some similarities and 
+differences between the two accounts? What insights might be drawn from these 
+observations?
 
 \vspace{0.5 in}
 
-2. It  resting?
+2. What did God give the man to do? What are some things you think might be 
+included in this job description? How would you describe the partnership between 
+the man and God?
 
 \vspace{0.5 in}
 
-3. It  resting?
+3. Why, in your opinion, does God forbid the man to eat from the tree of the knowledge 
+of good and evil? How does the knowledge of good and evil relate to the man being 
+made in God's image?
 
 \vspace{0.5 in}
 
-4. It  resting?
-
-\vspace{0.5 in}
-
-5. It  resting?
-
-\vspace{0.5 in}
-
-6. It  resting?
-
-\vspace{0.5 in}
-
-7. It  resting?
+4. What does God say will happen if the man eats from the forbidden tree? We have not 
+gotten to it in Genesis yet, but we know that Adam did eat of this tree, and yet went 
+on living; how do you explain this? How does this relate to The Big Story, and to 
+your own experience?
 
