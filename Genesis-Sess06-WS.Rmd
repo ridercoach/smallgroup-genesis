@@ -21,12 +21,12 @@ options(htmltools.dir.version = FALSE)
 
 \begin{adjustwidth}{}{-2 in}
 
-\large{}
+\Large{}
 
-\begin{spacing}{1.7}
+\begin{spacing}{2}
 
 \texttt{\vn{18} Then the LORD God said, "It is not good that the man 
-should be alone; I will make a helper fit for him." \vn{19} So out of 
+should be alone; I will make him a helper fit for him." \vn{19} So out of 
 the ground the LORD God formed every beast of the field and every bird 
 of the heavens and brought them to the man to see what he would call them. 
 And whatever the man called every living creature, that was its name. \vn{20} 
@@ -48,9 +48,9 @@ ashamed.   (ESV)}
 
 \vspace{0.3 in}
 
-# Suggestions for Exploration
+\Large{}
 
-\large{}
+# Suggestions for Exploration
 
 1. There ?
 
